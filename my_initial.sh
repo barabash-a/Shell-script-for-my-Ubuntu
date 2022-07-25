@@ -1,5 +1,5 @@
 #My preset use Ubuntu for computer.
-!/bin/bash
+!/bin/bash  прочитай - https://en.wikipedia.org/wiki/Shebang_(Unix) і це не шел, а баш.
 apt update && apt upgrade -y
 apt install net-tools -y
 apt install git -y
